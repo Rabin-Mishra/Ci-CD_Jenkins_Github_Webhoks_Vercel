@@ -47,7 +47,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read our docs for better understanding
+            Read our docs for better understanding adding new line
           </a>
         </div>
       </main>
